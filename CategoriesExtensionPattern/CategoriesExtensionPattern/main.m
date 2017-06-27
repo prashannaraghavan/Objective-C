@@ -16,8 +16,6 @@
 
 @interface CategoryClass()
 
--(void)extensionMethod:(Class)class;
-
 @end
 
 @implementation CategoryClass
